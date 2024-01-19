@@ -10,16 +10,15 @@ Additionally, I bring over 4 years of professional experience. During my time at
 
 My passion for technology  has driven me to acquire expertise in programming languages such as Java and Python, alongside proficiency in analytical tools like Power BI and Tableau. Designing Restful APIs and working with SQL and MongoDB databases are among my skill set, Ief fectively derive valuable insights from extensive datasets using Bigdata Technologies like Spark, kafka and AWS services like Lambda, Dynamo DB, EC2, EMR, and more. Adittionally, my proficiency in web frameworks like Flask enables me to create captivating web interfaces.
 
-I'm expected to graduate in March 2024 and excited to explore opportunities in software engineering and data centric roles where I can bring impactful contributions to your team.
+I'm expected to graduate in March 2024, actively seeking software engineering and data centric roles where I can bring impactful contributions to your team.
 
 Thank you for your consideration. 
 
 ## 🛠️ Currently Working On
 
-https://github.com/SartajBhuvaji/Resonate
-
-https://github.com/SartajBhuvaji/Research-Project
-
+- [**Resonate**](https://github.com/SartajBhuvaji/Resonate)
+  
+- [**Research Project**](https://github.com/SartajBhuvaji/Research-Project)
 
 
 
