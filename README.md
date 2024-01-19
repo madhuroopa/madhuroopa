@@ -1,4 +1,4 @@
-                                          # Hi there! 👋 I'm Madhuroopa
+<div align="center"> # Hi there! 👋 I'm Madhuroopa </div>
 
 I am currently pursuing my Masters in Computer Science with a specialization in Data Science at Seattle University. 
 
