@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Madhuroopa
+                                          # Hi there! 👋 I'm Madhuroopa
 
 I am currently pursuing my Masters in Computer Science with a specialization in Data Science at Seattle University. 
 
