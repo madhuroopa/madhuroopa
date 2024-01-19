@@ -1,7 +1,8 @@
-<div align="center" style="font-size: 50px;"> 
-  Hi there! 👋 I'm Madhuroopa </div>
+<div align="center" style="font-size: 60px; font-weight: bold;">
 
+# Hi there! 👋 I'm Madhuroopa
 
+</div>
 
 I am currently pursuing my Masters in Computer Science with a specialization in Data Science at Seattle University. 
 
