@@ -1,6 +1,6 @@
 <div align="center" style="font-size: 60px; font-weight: bold;">
 
-# Hi there! 👋 I'm Madhuroopa
+# Hi there!  I'm Madhuroopa
 
 </div>
 
