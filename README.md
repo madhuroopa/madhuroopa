@@ -20,6 +20,8 @@ Thank you for your consideration.
 
 ## 🛠️ Currently Working On
 
+[![FinTrack](https://img.shields.io/badge/Resonate-Checkout-blue?style=for-the-badge&logo=github)](https://github.com/madhuroopa/FinTrack)
+
 [![Resonate](https://img.shields.io/badge/Resonate-Checkout-blue?style=for-the-badge&logo=github)](https://github.com/SartajBhuvaji/Resonate)
 
 [![Research Project](https://img.shields.io/badge/Research_Project-Explore-green?style=for-the-badge&logo=github)](https://github.com/SartajBhuvaji/Research-Project)
